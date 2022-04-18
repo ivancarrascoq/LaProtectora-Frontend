@@ -13,7 +13,7 @@ class Header extends Component {
             <input className="form-control form-control-dark w-100" type="text" placeholder="Buscar Rendici&oacute;n" aria-label="Search" />
             <div className="navbar-nav">
                 <div className="nav-item text-nowrap">
-                    <a className="nav-link px-3" href="login">Iniciar Sesi&oacute;n</a>
+                    <a className="nav-link px-3" href="logout">Cerrar Sesi&oacute;n</a>
                 </div>
                 {/* <div className="nav-item text-nowrap">
                     <a className="nav-link px-3" href="logout">Cerrar Sesi&oacute;n</a>
